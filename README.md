@@ -1,2 +1,6 @@
 # Removable-Gate-GCC
-a complete set of files for making gamecube controllers with removable gates, as well as double z gamecube controllers and usb-c gamecube controllers
+
+![ControllerCollection](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/image1.png)
+![NotchBuilder](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/image2.png)
+
+

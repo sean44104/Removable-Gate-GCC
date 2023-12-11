@@ -4,6 +4,8 @@ This is a collection of custom gamecube controller files made to be resin printe
 
 The release contains F3D files with the STEP files for each part as well as the Notch Builder. It also includes a guide to using the Notch Builder and a guide on how to properly export files from Fusion360
 
+The main branch contains individual STL files for each part, ready to be printed! (for those who dont have fusion360)
+
 Parametric Notch Builder Tool by Bibben
 https://github.com/B1bben
 

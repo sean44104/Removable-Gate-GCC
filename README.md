@@ -38,11 +38,13 @@ Go to https://jlcpcb.com and click on "Order now" (make sure to sign up and crea
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/JLC/JLC2.png)
 
 Go to "3D/CNC" and then drag and drop your STLs into the "Add 3D Files" box of the "3D Printing" section
+
 You can do multiple files at once! (Up to 10)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/JLC/JLC3.png)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/JLC/JLC4.png)
 
 Once your files are finished uploading, select the type of 3D Technology and Material you want
+
 My personal favorite for the shells currently is SLA(Resin) and Imagine Black with the default surface finish (sanding, general sanding)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/JLC/JLC5.png)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/JLC/JLC6.png)

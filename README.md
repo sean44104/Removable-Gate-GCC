@@ -23,9 +23,9 @@ NOTE: This project is a work in progress! There are changes and improvements I w
 
 1. For now, please do not order the "ShellScrewMod" files. Just ignore them for now. After further IRL testing, I found the design to be faulty due to resin shrinkage. I want to redesign this system so it can be perfect :)
 
-2. You may notice that your button wells are a bit wide. There is a larger gap between the walls of the button holes on these shells than on an OEM gcc shell. I am aware of this problem, and I have already developed a fix! it will be included in the next release when that is ready. If you want to try it early, dm me. Just keep in mind that if you are ordering transparent shells in 8001 translucent oil sprayed resin, the material is a bit thicker than the others and the tolerances change. For this reason, the wider button wells might actually be a good thing if thats the material you are going for. Things to think about...
+2. You may notice that your button wells are a bit wide. There is a larger gap between the walls of the button holes on these shells than on an OEM gcc shell. I am aware of this problem, and I have already developed a fix! It will be included in the next release when that is ready. If you want to try it early, dm me. Just keep in mind that if you are ordering transparent shells in 8001 translucent resin, oil sprayed finish, the material is a bit thicker than the others and the tolerances change. For this reason, the wider button wells might actually be a good thing if thats the material you are going for. Things to think about...
 
-3. Currently, the USB-C hole plug (BjartPlug) is a bit small. A lot of USB-C cables wont fit in there. Im working on a fix! I need to redesign that part a little to make it bigger while still making sure its nice and pretty.
+3. Currently, the USB-C hole plug (BjartPlug) is a bit small. A lot of USB-C cables wont fit in there. Im working on a fix! I need to redesign that part a little to make it bigger while still making sure its nice and pretty. Maybe even create multiple different types of hole plugs to serve different purposes!
 
 ![ControllerCollection](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/image1.png)
 ![NotchBuilder](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/image2.png)
@@ -76,7 +76,7 @@ Lastly, "Secure Checkout" and put in your payment information! Shipping can be a
 
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/JLC/JLC9.png)
 
-# JLCPCB Ordering Guide
+# JLCPCB Material Information
 
 I am currently writing this up, its a work in progess. Eventually I hope to have useful documented information on each material available so that you can make the best decisions possible when ordering parts. Give me time!
 
@@ -101,7 +101,7 @@ While it is likely not a huge deal, you should probably try and minimize the amo
 # Important Note About Resin Safety
  
 ### DISCLAIMER:
-I am not a professional on this subject. Information on this topic tends to be very unclear and vague. Please do your own research and carefully vet the people who you get your information from. I have done my best to do good research on this and come to my own personal conclusion. The following is my honest opinion
+*I am not a professional on this subject. Information on this topic tends to be very unclear and vague. Please do your own research and carefully vet the people who you get your information from. I have done my best to do good research on this and come to my own personal conclusion. The following is my honest opinion*
  
 SLA UV Resin is initially a liquid. When exposed to UV light, it cures and hardens into a solid. When UV Resin is in its uncured liquid state, it is toxic. It is not safe to touch with bare hands or breathe in its fumes. This is all very important to think about when doing your own resin printing. I own a resin printer and I do my best to take the proper safety precautions when using it. I use gloves when working with it and I wear a mask. I clean the parts with isopropyl alcohol and fully cure them with a UV lamp. When you get a part from JLCPCB, it is complete. Fully cured, solid, perfect, ready to go. But does that mean that these parts are 100% safe? From my own research, I am of the opinion that the safety of UV resin is like an asymptote. As it cures, it becomes safer and safer, to the point of being mostly safe when fully cured. But does it ever reach a point of being absolutely 100% without a shadow of a doubt safe? I don't know, and I don't think anyone else really knows either. I can not responsibly make the claim that it is absolutely safe, because I don't know. The jury is very much out on this. The long term risks of exposure to uv resin are not fully understood due to a lack of research. The long term risks of exposure to fully cured uv resin in the hands is *even less understood*
  

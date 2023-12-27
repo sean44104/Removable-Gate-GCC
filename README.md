@@ -84,7 +84,7 @@ I am currently writing this up, its a work in progess. Eventually I hope to have
 
 
 
-# Important information for working with resin printed parts, please read:
+# Important information for working with uv resin and the safety of the material, please read:
 <details>
   <summary>Click to expand</summary>
 

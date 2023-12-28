@@ -115,14 +115,16 @@ https://pubs.acs.org/doi/10.1021/acs.estlett.5b00249
 Here is a link to their results:
 https://pubs.acs.org/doi/suppl/10.1021/acs.estlett.5b00249/suppl_file/ez5b00249_si_001.pdf
  
-In this publication, the researchers tested multiple different stages of UV resin cured-ness on zebrafish embryos. After printing a part, it comes off the printer wet and very soft (not fully cured whatsoever). you *must* clean it and cure it. The researchers did a total of 5 resin print tests. 4 of the 5 used parts that were only cleaned, and not fully cured. Only their 5th test was cured. Interestingly, you can see from the graphs that while the 4 uncured parts were extremely harmful to the zebrafish embryos, while the 5th test was either significantly less harmful or indistinguishable from the control test, depending on the test. This clearly shows that curing UV Resin makes it drastically more safe. Furthermore, you are not a zebrafish embryo
+In this publication, the researchers tested multiple different stages of UV resin cured-ness on zebrafish embryos. After printing a part, it comes off the printer wet and very soft (not fully cured whatsoever). You *must* clean it and cure it. The researchers did a total of 5 resin print tests. 4 of the 5 used parts that were only cleaned, and not fully cured. Only their 5th test was cured. Interestingly, you can see from the graphs that while the 4 uncured parts were extremely harmful to the zebrafish embryos, the 5th test was either significantly less harmful or indistinguishable from the control test. This clearly shows that curing UV Resin makes it drastically more safe. Furthermore, this is a very sensitive testing environment, and you are not a zebrafish embryo
  
 With all of that being said, I personally use these parts. I have for over a year and I will continue to use them. I am not personally particularly worried about my resin controller. If you feel differently about this however, here are some steps you can take.
  
 Choose a different material
+
 JLC has many different types of 3D Technology beyond just SLA Resin! Instead of SLA Resin, you can go for either SLS Nylon or MJF Nylon. These materials are 100% safe to use and touch.
  
 Paint or Clear Coat your resin
+
 By putting a layer between you and the resin, you can make it for sure safe to touch. If you are especially worried about the safety risks of SLA Resins, but still want to use them, or if you are planning on selling resin printed parts at large scales, I would recommend that you hit them with a little clear coat
  
 When researching the safety of UV resin for yourself, please be aware that most of the information online is aimed at people who resin print themselves. This environment has safety hazards, and this is the context that discussions about safety are usually in. Please do not be irresponsible and spread misinformation about the harmful effects of cured resin parts based on the information you read that was likely referring to liquid or uncured resin parts.

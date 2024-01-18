@@ -6,6 +6,19 @@ The release contains F3D files with the STEP files for each part as well as the 
 
 The main branch contains individual STL files for each part, ready to be printed! (for those who dont have fusion360)
 
+Here are some product links and guides!
+
+Gateplate Screws:
+https://www.mcmaster.com/90236a103/
+
+Gateplate Hex Nut Inserts:
+https://www.mcmaster.com/90592A075/
+
+Video Guide On How To Install The Hex Nuts Into The Front Shell:
+https://youtu.be/vxjiae2Oz9I?si=B8-4NFnGVl_ovJBW
+
+Bonding the hex nuts to the front shell allows you to take the gateplates off and put them on without ever opening your controller. Follow the guide. I personally use resin to do this, but glue would probably also work very well. Try to use a runny, liquid glue that will really seep into the hex nut channel.
+
 Parametric Notch Builder Tool by Bibben
 https://github.com/B1bben
 

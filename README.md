@@ -93,6 +93,14 @@ Lastly, "Secure Checkout" and put in your payment information! Shipping can be a
 
 I am currently writing this up, its a work in progess. Eventually I hope to have useful documented information on each material available so that you can make the best decisions possible when ordering parts. Give me time!
 
+For now, here are my general recomendations. I have tried a TON of the JLC materials, so if you ever have a question about any of them, try DMing me!
+
+For the gateplates, I think BY FAR the best material for them is 8001 Translucent, Oil Sprayed Resin. It is tough, dimensionally reliable, beautiful, and has very low friction! Rienne herself has rated the Notched 8001 Translucent gateplates as a 9/10!
+
+For the shell, you have options. Either go with MJF Nylon, Black Resin, Imagine Black, or 8228 Resin. Nylon can be really nice, but it feels rough in the hands which can mean a lot of friction. Black Resin and Imagine Black are the exact same, except Imagine Black is a darker shade. They are both smooth and nice, but fragile. Apparently the 8228 Resin is the best of both worlds, being smooth like the black resins yet a bit more durable and less brittle. Only problem is that its a little ugly. My personal preference is Imagine Black, but I have not tried a full shell in 8228. 8001 Translucent Oil Spray is also an option for the shell. Its pretty and durable and it will work but the fit isnt the best, experiment at your own risk to your bank account!
+
+For other miscellaneous small things, like buttons or triggers, go with Black Resin. Its cheap and will give you by far the best results. It is very smooth and high resolution, and its very accurate even at small sizes. I have generally loved the parts I have gotten in this material. I dont recommend it for gateplates though, because it is higher friction than alternatives and it can sometimes the gate can print wide and inaccurately when using black resin.
+
 
 
 

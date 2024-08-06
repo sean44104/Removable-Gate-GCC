@@ -2,9 +2,9 @@
 
 This is a collection of custom gamecube controller files made to be resin printed. These files feature a variety of mods. Removable Gates, Digitally Notched Gateplates, Double Z, USB-C, Metal Threaded Shell Inserts, and a Fully Parametric Custom Notch Builder Tool!
 
-The release contains F3D files with the STEP files for each part as well as the Notch Builder. It also includes a guide to using the Notch Builder and a guide on how to properly export files from Fusion360
+The release contains F3D files with the STEP files for each part as well as the Notch Builder. The V1 release includes a guide to using the Notch Builder and a guide on how to properly export files from Fusion360. The V2 release includes individual high resolution STLS that are print ready!
 
-The main branch contains individual STL files for each part, ready to be printed! (for those who dont have fusion360)
+The main branch contains individual STL files for each part in v1 and v2, ready to be printed! (for those who dont have fusion360)
 
 Here are some product links and guides!
 
@@ -17,7 +17,10 @@ https://www.mcmaster.com/90592A075/
 Video Guide On How To Install The Hex Nuts Into The Front Shell:
 https://youtu.be/vxjiae2Oz9I?si=B8-4NFnGVl_ovJBW
 
-Bonding the hex nuts to the front shell allows you to take the gateplates off and put them on without ever opening your controller. Follow the guide. I personally use resin to do this, but glue would probably also work very well. Try to use a runny, liquid glue that will really seep into the hex nut channel.
+Video Showcase On Shell Material Fit:
+https://youtu.be/kKp5rs-HsGk
+
+Bonding the hex nuts to the front shell allows you to take the gateplates off and put them on without ever opening your controller. Follow the guide. I personally use resin to do this, but glue would probably also work very well. Try to use a runny, liquid glue that will really seep into the hex nut channel. Make sure the screws are inside the nuts when you put the adhesive in so that it does not go inside the nut and make it unusable.
 
 Parametric Notch Builder Tool by Bibben
 https://github.com/B1bben
@@ -32,13 +35,13 @@ This design is based on, and uses the full oem gcc step file made by GearHawkStu
 
 **Scroll to the bottom of the readme for an ordering guide and information on each JLC material (WIP) :D**
 
-NOTE: This project is a work in progress! There are changes and improvements I want to make. I will list them here:
+NOTE: Here is a list of changes and improvements that were made for RGGCCv2.0:
 
-1. For now, please do not order the "ShellScrewMod" files. Just ignore them for now. After further IRL testing, I found the design to be faulty due to resin shrinkage. I want to redesign this system so it can be perfect :)
+1. A complete redesign for the Metal Threads Mod. It should be better, but I have not tested the design yet. Print this at your own risk and let me know how it goes!
 
-2. You may notice that your button wells are a bit wide. There is a larger gap between the walls of the button holes on these shells than on an OEM gcc shell. I am aware of this problem, and I have already developed a fix! It will be included in the next release when that is ready. If you want to try it early, dm me. Just keep in mind that if you are ordering transparent shells in 8001 translucent resin, oil sprayed finish, the material is a bit thicker than the others and the tolerances change. For this reason, the wider button wells might actually be a good thing if thats the material you are going for. Things to think about...
+2. The button wells have been slightly tightened. Now, the wells are much closer to OEM size. They should work great and the buttons should rattle a bit less! The button press feel should also be a bit more consistent.
 
-3. Currently, the USB-C hole plug (BjartPlug) is a bit small. A lot of USB-C cables wont fit in there. Im working on a fix! I need to redesign that part a little to make it bigger while still making sure its nice and pretty. Maybe even create multiple different types of hole plugs to serve different purposes!
+3. The USB-C hole plug (BjartPlug) has been redesigned and expanded to be 15mm wide. Now, all USB-C cables should fit inside! I encourage people to redesign this part to add cool features, like perhaps a screw-in locking mechanism!
 
 ![ControllerCollection](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/image1.png)
 ![NotchBuilder](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/image2.png)

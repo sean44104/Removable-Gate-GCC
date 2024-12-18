@@ -54,7 +54,7 @@ NOTE: Here is a list of changes and improvements that were made for RGGCCv2.0:
 ### Double Z
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/dz1.png)
 
-### UCB-C
+### USB-C
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-GCC/main/Images/usbc.png)
 
 ### Notch Builder Tool
